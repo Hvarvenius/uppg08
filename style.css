@@ -45,6 +45,10 @@ footer {
   grid-area: footer;
 }
 
+.footercolor {
+  color: black;
+}
+
 img#sea {
   width: 100%;
   max-width: 800px;
